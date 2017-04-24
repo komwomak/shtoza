@@ -1,10 +1,21 @@
 
-Sun, Apr 23, 2017  9:34:05 AM
+
+Mon Apr 24 13:23:16 PDT 2017
 
 https://www.r-bloggers.com/dont-run-afoul-of-scoping-rules-in-r/
+	This has example code to step trhough.
 
 http://wiki.math.yorku.ca/index.php/R:_Scoping_of_free_variable_names
 
 https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf
 			Under "Writing Your own functions", section called "Scope"
 
+##############################################################
+
+Mon Apr 24 12:35:35 PDT 2017
+
+# Non-scoping-rules readings:
+
+http://stackoverflow.com/questions/7486386/how-to-step-through-an-r-script-from-the-begining
+
+https://quizlet.com/68524823/elementary-statistics-terms-definitions-review-flash-cards/
